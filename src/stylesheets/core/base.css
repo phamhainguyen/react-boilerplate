@@ -1,5 +1,7 @@
 $red-color: red;
 
-h1 {
-  color: $red-color;
+.home {
+    h1 {
+        color: red;
+    }
 }
